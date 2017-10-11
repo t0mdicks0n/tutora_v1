@@ -16,8 +16,12 @@ Visit the website or watch the video here: https://www.youtube.com/watch?v=-Q2H4
 - Redis 3.2.x
 - Postgresql 9.6.x
 
-## Developments
+## Deployment
+Make sure you have Docker running.
 
+Then simply type `docker-compose up` in the project directory.
+
+## Development
 ### Installing System Dependencies
 
 ```
@@ -67,8 +71,3 @@ To run server: `yarn run start`
 To run tests: `yarn run test`
 
 To run your redis server for the session store `redis-server`
-
-## Deployment
-Make sure you have Docker running.
-
-Then simply type `docker-compose up` in the project directory.
