@@ -1,42 +1,20 @@
-# Project Name
+# Tutora - Online tutoring plattform for teachers and students 
 
-The project description
+Students come to the site with a question they need answered. Tutors visit the site because they love to help and want to make a dollar doing it from the convenience of their home. The tutoring on Tutora gets conducted over video chat.
+
+Visit the website or watch the video here: https://www.youtube.com/watch?v=-Q2H4lPs31A
 
 ## Team
 
-- teamMember
-- teamMember
-- teamMember
-- teamMember
-
-## Roadmap
-
-View the project roadmap [here](LINK_TO_DOC)
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
-
-# Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-
-## Usage
-
-> Some usage instructions
+- Tom Dickson
+- Vincent Van Buskirk
+- Agnes Chu
 
 ## Requirements
 
 - Node 6.9.x
 - Redis 3.2.x
 - Postgresql 9.6.x
-- etc
-
-## Development
 
 ### Installing System Dependencies
 
@@ -87,5 +65,3 @@ To run server: `yarn run start`
 To run tests: `yarn run test`
 
 To run your redis server for the session store `redis-server`
-
-
